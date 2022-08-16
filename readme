@@ -1,0 +1,17 @@
+Home work 12
+
+Here you can see fresh new about Python and CSS in one plase
+
+Dependencies
+script for Windows
+You need install next moduls:
+- aiohttp
+- asyncio
+- bs4
+- aiohttp_jinja2
+- jinja2
+
+Executing program
+1. Run file app2.py
+2. open in browser 127.0.0.1:8080
+3. Enjoy fresh news
