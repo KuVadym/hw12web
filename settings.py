@@ -1,0 +1,1 @@
+urls = ['https://changelog.com/topic/css', 'https://www.python.org/blogs/']
